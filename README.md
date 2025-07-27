@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4e54c8,8f94fb&height=250&section=header&text=👨‍💻%20Anmol%20Poudyal&fontSize=60&fontColor=FFFFFF&animation=fadeIn&desc=Passionate%20Developer%20|%20Learner%20for%20Life&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4e54c8,8f94fb&height=250&section=header&text=👨‍💻%20Anmol%20Poudyal&fontSize=60&fontColor=FFFFFF&animation=fadeIn&desc=Passionate%20Developer%20|%20Business%20enthusiast&descSize=20" />
 </div>
 
 <p align="center">
