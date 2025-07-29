@@ -40,8 +40,10 @@ I'm **Anmol Poudyal** — a passionate developer and **business enthusiast** fro
 
 ---
 
+<!-- Tech Themed GIF -->
+<img src="https://github.com/Anmolpoudyal/Anmolpoudyal/blob/9c45669fc4ebdaf7c2f1a929af72187ecfbb2df0/ReadmeGifextended.png" />
 
-
+---
 ## 🧰 Tech Toolbox
 
 <p align="center">
