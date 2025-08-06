@@ -44,8 +44,9 @@ I'm **Anmol Poudyal** — a passionate developer and **business enthusiast** fro
 <img src="https://github.com/Anmolpoudyal/Anmolpoudyal/blob/9c45669fc4ebdaf7c2f1a929af72187ecfbb2df0/ReadmeGifextended.png" />
 
 ---
-## 🧰 Tech Toolbox
+# 🧰 Tech Toolbox
 
+## 🧠 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -64,8 +65,16 @@ I'm **Anmol Poudyal** — a passionate developer and **business enthusiast** fro
 
 
 ---
+## 🎨 Design Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
 
-## 📈 GitHub Stats
+---
+
+# 📈 GitHub Stats
 
 <div align="center">
   <picture>
@@ -82,8 +91,12 @@ I'm **Anmol Poudyal** — a passionate developer and **business enthusiast** fro
 </div>
 
 ---
+<div align="center">
+  <h3>🧩 Most Used Languages & Technologies 🧩</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolpoudyal&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=FFFFFF&langs_count=10" width="90%" />
+</div>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Anmolpoudyal&theme=onedark&margin-w=10&no-frame=true" />
@@ -91,7 +104,7 @@ I'm **Anmol Poudyal** — a passionate developer and **business enthusiast** fro
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:anmol.labs.code@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
