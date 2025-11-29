@@ -104,6 +104,12 @@ I'm **Anmol Poudyal** — a passionate developer and **business enthusiast** fro
 
 ---
 
+## 🔥 GitHub Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" />
+</p>
+
+
 # 🌐 Connect With Me
 
 <p align="center">
